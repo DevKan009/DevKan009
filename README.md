@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo23538
-Fork on GitHub8054
+<h2 align="center"> Kanha Agrawal </h2>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devkan009&label=Profile%20views&color=0e75b6&style=flat" alt="devkan009" /> </p>
