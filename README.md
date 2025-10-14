@@ -16,7 +16,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkan009&show_icons=true&locale=en" alt="devkan009" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkan009&" alt="devkan009" /></p>
-
+<br>
+[![An image of @devkan009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devkan009)](https://holopin.io/@devkan009)
 
 
 <!--
