@@ -16,9 +16,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devkan009&show_icons=true&locale=en" alt="devkan009" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkan009&" alt="devkan009" /></p>
-<br>
-[<img width="983" height="278" alt="image" src="https://github.com/user-attachments/assets/751291ac-9c3a-4251-a231-3e4c2e561303" />
-](https://holopin.me/devkan009)](https://holopin.io/@devkan009)
+<hr>
+<a href="https://holopin.io/@devkan009"><img width="983" height="278" alt="image" src="https://github.com/user-attachments/assets/751291ac-9c3a-4251-a231-3e4c2e561303" />
+</a>
+
 
 
 <!--
