@@ -17,7 +17,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkan009&" alt="devkan009" /></p>
 <br>
-[![An image of @devkan009's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/devkan009)](https://holopin.io/@devkan009)
+[<img width="983" height="278" alt="image" src="https://github.com/user-attachments/assets/751291ac-9c3a-4251-a231-3e4c2e561303" />
+](https://holopin.me/devkan009)](https://holopin.io/@devkan009)
 
 
 <!--
