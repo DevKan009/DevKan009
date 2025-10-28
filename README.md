@@ -17,8 +17,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devkan009&" alt="devkan009" /></p>
 <hr>
-<a href="https://holopin.io/@devkan009"><img width="983" height="278" alt="image" src="https://github.com/user-attachments/assets/751291ac-9c3a-4251-a231-3e4c2e561303" />
-</a>
+<a href="https://holopin.io/@devkan009"><img width="840" height="409" alt="image" src="https://github.com/user-attachments/assets/ca3bf126-cb86-4d4f-a26c-256ef9e77847" /></a>
+
+
+
 
 
 
